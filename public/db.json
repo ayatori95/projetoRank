@@ -1,24 +1,29 @@
 {
   "grupos": [
     {
-      "nome": "Grupo Alfa",
+      "nome": "Agenda Avançada 🥇",
       "posicao": 1,
-      "pontos": 1500
+      "pontos": 350
     },
     {
-      "nome": "Grupo Beta",
+      "nome": "Controle de Hábitos 🥈",
       "posicao": 2,
-      "pontos": 1250
+      "pontos": 225
     },
     {
-      "nome": "Grupo Gama",
-      "posicao": 3,
-      "pontos": 1100
-    },
-    {
-      "nome": "Grupo Delta",
+      "nome": "Sistema de Navegação",
       "posicao": 4,
-      "pontos": 980
+      "pontos": 0
+    },
+    {
+      "nome": "Loja de Roupas 🥉",
+      "posicao": 3,
+      "pontos": 220
+    },
+     {
+      "nome": "Assinatura de Sustentáveis",
+      "posicao": 5,
+      "pontos": 0
     }
   ],
   "aulas": [

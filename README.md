@@ -1,12 +1,22 @@
-# React + Vite
+# Projeto de Ranking de Alunos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
 
-Currently, two official plugins are available:
+Este projeto é um site desenvolvido para exibir o ranking de desempenho de grupos de alunos em uma competição. Além do ranking, o site futuramente contará com uma seção para disponibilizar o conteúdo das aulas em vídeo, servindo como um portal central para os participantes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O site foi projetado para ser estático, utilizando um arquivo `db.json` como banco de dados para facilitar a manutenção e a hospedagem.
 
-## Expanding the ESLint configuration
+## Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+O frontend da aplicação foi construído com tecnologias modernas, focando em performance e design responsivo:
+
+- **React:** Biblioteca principal para a construção da interface de usuário.
+- **Vite:** Ferramenta de build extremamente rápida para o desenvolvimento frontend.
+- **React Router DOM:** Para gerenciamento das rotas e navegação entre páginas.
+- **Bootstrap:** Framework CSS para garantir um design limpo, moderno e responsivo.
+- **JSON:** Utilizado como banco de dados estático para armazenar os dados de ranking e aulas.
+
+## Planos Futuros
+
+- **Hospedagem na AWS:** A aplicação será futuramente hospedada na nuvem da Amazon Web Services (AWS), utilizando serviço como AWS Amplify, que oferece uma experiência de hospedagem na Web totalmente gerenciada e um serviço de criação de back-end para criar aplicações full-stack.
+- **Página de Aulas:** Implementação da seção de aulas em vídeo.
