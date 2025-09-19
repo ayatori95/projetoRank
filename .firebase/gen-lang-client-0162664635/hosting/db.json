@@ -1,0 +1,47 @@
+{
+  "grupos": [
+    {
+      "nome": "Agenda Avançada 🥇",
+      "posicao": 1,
+      "pontos": 350
+    },
+    {
+      "nome": "Controle de Hábitos 🥈",
+      "posicao": 2,
+      "pontos": 225
+    },
+    {
+      "nome": "Sistema de Navegação",
+      "posicao": 4,
+      "pontos": 0
+    },
+    {
+      "nome": "Loja de Roupas 🥉",
+      "posicao": 3,
+      "pontos": 220
+    },
+     {
+      "nome": "Assinatura de Sustentáveis",
+      "posicao": 5,
+      "pontos": 0
+    }
+  ],
+  "aulas": [
+    {
+      "titulo": "Aula 1: Introdução ao React",
+      "url": "https://www.youtube.com/embed/your_video_id_1"
+    },
+    {
+      "titulo": "Aula 2: Componentes e Props",
+      "url": "https://www.youtube.com/embed/your_video_id_2"
+    },
+    {
+      "titulo": "Aula 3: Estado e Ciclo de Vida",
+      "url": "https://www.youtube.com/embed/your_video_id_3"
+    },
+    {
+      "titulo": "Aula 4: Hooks Essenciais",
+      "url": "https://www.youtube.com/embed/your_video_id_4"
+    }
+  ]
+}
