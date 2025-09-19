@@ -1,0 +1,5 @@
+# Ignora a pasta de dependências locais
+node_modules
+
+# Ignora a pasta de build local
+dist
